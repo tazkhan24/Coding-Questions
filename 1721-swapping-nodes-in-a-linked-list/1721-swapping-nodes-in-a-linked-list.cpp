@@ -14,6 +14,9 @@ public:
 
         ListNode* temp = head;
         ListNode* start = NULL;
+        if(head==NULL){
+            return NULL;
+        }
         for(int i=1;i<k;i++){
             temp=temp->next;
         }
