@@ -13,7 +13,7 @@ public:
 	    {
 	        if(arr1[i]>arr2[x] && x<m){
 	            swap(arr1[i],arr2[x]);
-	            x++;
+	               x++;
 	        }
 	        else
 	        {
