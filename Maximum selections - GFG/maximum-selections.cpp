@@ -9,27 +9,21 @@ using namespace std;
 
 class Solution{
 public:
+static bool comp(vector<int>&a ,vector<int>&b){
+    return a[1]<b[1];
+}
     int max_non_overlapping( vector< vector<int> >& ranges )
     {
-        // code here
-        int n = ranges.size();
-        int count=1;
-        int prev = 0;
+        int max=-1;
+        int ans=0;
         sort(ranges.begin(),ranges.end(),comp);
-        for(int i=1;i<n;i++)
-        {
-            if(ranges[i][0]>=ranges[prev][1])
-            {
-                count++;
-                prev =i;
+        for(auto el:ranges){
+            if(el[0]>=max){
+                ans++;
+                max=el[1];
             }
-            
         }
-        return count;
-    }
-    static bool comp(vector<int> &a, vector<int> &b)
-    {
-        return a[1]<b[1];
+        return ans;
     }
 };
 
