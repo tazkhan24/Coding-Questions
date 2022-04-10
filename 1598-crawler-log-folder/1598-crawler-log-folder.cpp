@@ -18,10 +18,7 @@ public:
                 st.push(i);
             }
     }
-        while(!st.empty()){
-            sum++;
-            st.pop();
-        }
-        return sum;
+        
+        return st.size();
     }
 };
