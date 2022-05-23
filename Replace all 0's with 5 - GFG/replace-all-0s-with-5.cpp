@@ -19,21 +19,11 @@ int main() {
 /*you are required to complete this method*/
 int convertFive(int n) {
     // Your code here
-    int newInt = 0;
-    while(n!=0){
-        int rem = n%10;
-        if(rem == 0)
-            rem+=5;
-        newInt = newInt*10 + rem;
-        n = n/10;
-        
+    string s;
+    s = to_string(n);
+    for(int i=0;i<s.length();i++){
+        if(s[i] == '0')
+            s[i]='5';
     }
-    n = newInt;
-    int final =0;
-    while(n!=0){
-         int rem = n%10;
-         final = final*10+rem;
-         n = n/10;
-    }
-    return final;
+    return stoi(s);
 }
