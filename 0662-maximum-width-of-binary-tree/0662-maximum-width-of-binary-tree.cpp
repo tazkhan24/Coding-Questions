@@ -21,7 +21,7 @@ public:
             int first,last;
             int mmin = q.front().second;
             for(int i=0;i<size;i++){
-                int cur_id = q.front().second;
+                int cur_id = q.front().second-mmin;
                 TreeNode* node = q.front().first;
                 q.pop();
                 if(i==0) first = cur_id;
