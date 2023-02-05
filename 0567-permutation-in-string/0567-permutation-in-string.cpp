@@ -14,7 +14,7 @@ public:
         while(j<s2.size()){
             freqS2[s2[j]-'a']++;
             if(j-i+1 == s1.size()){
-                if(isequal(freqS1,freqS2)==true) return true;
+                if(freqS1==freqS2) return true;
             }
             if(j-i+1<s1.size()) j++;
             else
