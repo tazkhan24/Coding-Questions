@@ -19,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tazkhan24/Coding-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+## Math
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/tazkhan24/Coding-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Greedy
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/tazkhan24/Coding-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
