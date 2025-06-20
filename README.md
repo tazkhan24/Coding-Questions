@@ -15,12 +15,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tazkhan24/Coding-Questions/tree/master/0005-longest-palindromic-substring) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tazkhan24/Coding-Questions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 ## Array
 |  |
 | ------- |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/tazkhan24/Coding-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tazkhan24/Coding-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tazkhan24/Coding-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tazkhan24/Coding-Questions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tazkhan24/Coding-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
@@ -42,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tazkhan24/Coding-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Matrix
+|  |
+| ------- |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tazkhan24/Coding-Questions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 <!---LeetCode Topics End-->
