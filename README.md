@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/tazkhan24/Coding-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tazkhan24/Coding-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tazkhan24/Coding-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tazkhan24/Coding-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tazkhan24/Coding-Questions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
@@ -43,9 +44,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tazkhan24/Coding-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tazkhan24/Coding-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Matrix
 |  |
 | ------- |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tazkhan24/Coding-Questions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+## Hash Table
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tazkhan24/Coding-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tazkhan24/Coding-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
