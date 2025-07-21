@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tazkhan24/Coding-Questions/tree/master/0005-longest-palindromic-substring) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/tazkhan24/Coding-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
