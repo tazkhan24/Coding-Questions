@@ -12,15 +12,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tazkhan24/Coding-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/tazkhan24/Coding-Questions/tree/master/0139-word-break) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tazkhan24/Coding-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tazkhan24/Coding-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/tazkhan24/Coding-Questions/tree/master/0139-word-break) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tazkhan24/Coding-Questions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tazkhan24/Coding-Questions/tree/master/0139-word-break) |
 | [0594-longest-harmonious-subsequence](https://github.com/tazkhan24/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tazkhan24/Coding-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/tazkhan24/Coding-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -60,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tazkhan24/Coding-Questions/tree/master/0139-word-break) |
 | [0594-longest-harmonious-subsequence](https://github.com/tazkhan24/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tazkhan24/Coding-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
@@ -74,4 +78,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tazkhan24/Coding-Questions/tree/master/0594-longest-harmonious-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tazkhan24/Coding-Questions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tazkhan24/Coding-Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
